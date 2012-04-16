@@ -16,7 +16,7 @@ You can display up to 100 tweets within 7 days (limit set by Twitter's Search AP
 	
 It displays tweets from your feed or from the Twitter Search, from a list or from your favorite users. It is very flexible and modular.
 
-You can read more on [miniTwitter](http://minitwitter.webdevdesigner.com/ "Embed twitter on your Wordpress blog").
+You can read more on how to [Embed twitter on your Wordpress blog: mini Twitter](http://minitwitter.webdevdesigner.com/ "Put the twitter feed on your Wordpress blog").
 
 == Installation ==
 

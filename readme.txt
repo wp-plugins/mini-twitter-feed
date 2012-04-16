@@ -10,12 +10,13 @@ Embed your twitter feed or the feed from your favorite users on your Wordpress b
 
 == Description ==
 
-	the plugin "mini Twitter feed" puts Twitter on your Wordpress blog, you can add your tweets or the tweets from the folks you like, lists, queries...
-	You can display up to 100 tweets within 7 days (limit set by Twitter's Search API). It uses the color of your link profile on Twitter or the color of your website.
-	
-	It displays tweets from your feed or from the Twitter Search, from a list or from your favorite users. It is very flexible and modular.
+The plugin "mini Twitter feed" puts Twitter on your Wordpress blog, you can add your tweets or the tweets from the folks you like, lists, queries...
 
-	You can read more on [miniTwitter](http://minitwitter.webdevdesigner.com/ "Embed twitter on your Wordpress blog").
+You can display up to 100 tweets within 7 days (limit set by Twitter's Search API). It uses the color of your link profile on Twitter or the color of your website.
+	
+It displays tweets from your feed or from the Twitter Search, from a list or from your favorite users. It is very flexible and modular.
+
+You can read more on [miniTwitter](http://minitwitter.webdevdesigner.com/ "Embed twitter on your Wordpress blog").
 
 == Installation ==
 
@@ -48,6 +49,4 @@ You have to use the "id" section on your shortcode. For example, the first twitt
 == Upgrade Notice ==
 
 = 1.0 =
-
-== Arbitrary section ==
 

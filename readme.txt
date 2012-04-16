@@ -20,9 +20,9 @@ You can read more on how to [Embed twitter on your Wordpress blog: mini Twitter]
 
 == Installation ==
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload `/mini-twitter_feed` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place [minitwitter username="YOUR_USERNAME"] in your templates or use the widget section.
+3. Place `[minitwitter username="YOUR_USERNAME"]` in your templates or use the widget section.
 
 You can limit the number of tweets displayed [minitwitter username="webdevdesigner" limit=7]: it will show the last 7 tweets of the user @webdevdesigner.
 
@@ -36,7 +36,7 @@ You can add the color of the links on the twitter feed [minitwitter username="we
 
 = How to add more than one twitter feed on my blog? =
 
-You have to use the "id" section on your shortcode. For example, the first twitter feed will be: [minitwitter id=1 username="ladygaga"] and the second feed: [minitwitter id=2 username="justinbieber"].
+You have to use the "id" section on your shortcode. For example, the first twitter feed will be: [minitwitter id=1 username="ladygaga"] and the second feed: [minitwitter id=2 username="justinbieber"]. The widget section does it automatically.
 
 == Screenshots ==
 

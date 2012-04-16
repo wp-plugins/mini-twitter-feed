@@ -39,7 +39,7 @@ function mtf_create_shortcode( $atts, $content=null ) {
 				<div class="tweets_header">Mini <a href="http://minitwitter.webdevdesigner.com">Tweets</a></div> 
 				<div class="content_tweets'.$atts['id'].'"> </div> 
 				<div class="tweets_footer">
-					<a href="http://consumimus.fr" title="Consumimus les avis consommateur"><span id="bird"></span></a>
+					<span id="bird"></span>
 				</div> 
 			</div>
 			<script type="text/javascript">
@@ -87,7 +87,7 @@ class MinitwitterWidget extends WP_Widget {
 				<div class="tweets_header">Mini <a href="http://minitwitter.webdevdesigner.com">Tweets</a></div> 
 				<div class="content_tweets_'.$this->get_field_id('id').'"> </div> 
 				<div class="tweets_footer">
-					<a href="http://consumimus.fr" title="Consumimus les avis consommateur"><span id="bird"></span></a>
+					<span id="bird"></span>
 				</div> 
 			</div>
 			<script type="text/javascript">

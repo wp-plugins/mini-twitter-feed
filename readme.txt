@@ -4,7 +4,7 @@ Donate link: http://minitwitter.webdevdesigner.com
 Tags: twitter, twitter feed, mini twitter, tweets, widget, shortcode 
 Requires at least: 2.8
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Embed your twitter feed or the feed from your favorite users on your Wordpress blog. Shortcodes and widgets are used.
 
@@ -12,7 +12,7 @@ Embed your twitter feed or the feed from your favorite users on your Wordpress b
 
 The plugin "mini Twitter feed" puts Twitter on your Wordpress blog, you can add your tweets or the tweets from the folks you like, lists, queries...
 
-You can display up to 100 tweets within 7 days (limit set by Twitter's Search API). It uses the color of your link profile on Twitter or the color of your website.
+You can display up to 100 tweets within 7 days (limit set by Twitter's Search API).
 	
 It displays tweets from your feed or from the Twitter Search, from a list or from your favorite users. It is very flexible and modular.
 
@@ -28,9 +28,9 @@ You can limit the number of tweets displayed [minitwitter username="webdevdesign
 
 It is possible to add a list of users to show [minitwitter username="twitter" list="team"]: it will show 5 tweets of the list "team" of the "twitter" user.
 
-you can show the tweets of a query [minitwitter query="#awesome"]: it will show the tweets from the query #awesome.
+You can show the tweets of a query [minitwitter query="#awesome"]: it will show the tweets from the query #awesome.
 
-You can add the color of the links on the twitter feed [minitwitter username="webdevdesigner" linkcolor="000000"]. The colors have to be in hexadecimal (000000: black, ffffff: white...).
+You can change the color of your links by the color of your website changing `.tweets a { color:#your_color; }` in your ccs file.
 
 == Frequently Asked Questions ==
 
@@ -48,5 +48,8 @@ You have to use the "id" section on your shortcode. For example, the first twitt
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.1 =
+
+Bug fix with for color of the links, now CSS is used.
+Font -2px on all plugin
 

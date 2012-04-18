@@ -38,10 +38,6 @@ You can add the color of the links on the twitter feed [minitwitter username="we
 
 You have to use the "id" section on your shortcode. For example, the first twitter feed will be: [minitwitter id=1 username="ladygaga"] and the second feed: [minitwitter id=2 username="justinbieber"]. The widget section does it automatically.
 
-== Screenshots ==
-
-1. The twitter feed on your blog.
-
 == Changelog ==
 
 = 1.0 =

@@ -28,11 +28,12 @@
 */
 
 function mtf_create_shortcode( $atts, $content=null ) {
-	shortcode_atts(array('id'=>null,'username'=>null, 'list'=>null, 'query' => null, 'limit' => null), $atts);
+	shortcode_atts(array('id'=>null,'username'=>null, 'list'=>null, 'query' => null, 'limit' => null, 'linkcolor'=> null), $atts);
 	$options = (($atts['username'])?'username:"'.$atts['username'].'",':'username:"webdevdesigner",');
 	$options .= (($atts['limit'])?'limit:'.$atts['limit'].',':'');
 	$options .= (($atts['query'])?'query:'.$atts['query'].',':'');
 	$options .= (($atts['list'])?'list:'.$atts['list'].',':'');
+	$options .= (($atts['linkcolor'])?'linkColor:'.$atts['linkcolor'].',':'');
 	
 	return '<div class="tweets"> 
 				<div class="tweets_header">Mini <a href="http://minitwitter.webdevdesigner.com">Tweets</a></div> 
@@ -79,6 +80,7 @@ class MinitwitterWidget extends WP_Widget {
 		$options .= (($instance['limit'])?'limit:'.$instance['limit'].',':'');
 		$options .= (($instance['query'])?'query:'.$instance['query'].',':'');
 		$options .= (($instance['list'])?'list:'.$instance['list'].',':'');
+		$options .= (($instance['linkcolor'])?'linkColor:'.$instance['linkcolor'].',':'');
 		?>
 		<?php echo $before_widget; ?>
 		<?php echo '<div class="tweets"> 

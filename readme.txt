@@ -30,7 +30,7 @@ It is possible to add a list of users to show [minitwitter username="twitter" li
 
 You can show the tweets of a query [minitwitter query="#awesome"]: it will show the tweets from the query #awesome.
 
-You can change the color of your links by the color of your website changing `.tweets a { color:#your_color; }` in your ccs file.
+You can change the color of your links by the color of your website changing `<style>.tweets a { color:#your_color; }</style>` in the <head> after the file `jquery.minitwitter.css`.
 
 == Frequently Asked Questions ==
 

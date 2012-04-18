@@ -6,7 +6,7 @@
 	Plugin URI: http://webdevdevdesigner.com
 	Description: this plugin displays tweets from your feed, from the Twitter Search, from a list or from your favorite users. 
 	Author: Web Dev Designer
-	Version: 1.1
+	Version: 1.0
 	Author URI: http://webdevdevdesigner.com
 	
 	

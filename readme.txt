@@ -49,12 +49,12 @@ You have to use the "id" section on your shortcode. For example, the first twitt
 = 1.1 =
 
 Bug fix with for color of the links, now CSS is used.
-Font -2px on all plugin
+Font -1px on all plugin
 
 == Upgrade Notice ==
 
 = 1.1 =
 
 Bug fix with for color of the links, now CSS is used.
-Font -2px on all plugin
+Font -1px on all plugin
 

@@ -35,6 +35,7 @@
 .tweets .tweets_header a {
 	color:#333 !important;
 	text-decoration:none !important;
+	font-weight:bold !important;
 }
 
 .tweets .tweets_header a:hover {

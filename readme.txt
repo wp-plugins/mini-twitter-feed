@@ -40,7 +40,7 @@ You have to use the "id" section on your shortcode. For example, the first twitt
 
 = What are the "query" and "list" fields in the widget section? =
 
-The field "query" is NOT required. It is only to show themes or sentences like "#iamthebest".
+The field "query" is NOT required. It is only to show themes or sentences like "#worldcup".
 The field "list" is NOT required too. It is to display the tweets of one of your list.
 
 == Screenshots ==

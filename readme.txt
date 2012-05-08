@@ -38,6 +38,11 @@ You can change the color of your links by the color of your website changing `<s
 
 You have to use the "id" section on your shortcode. For example, the first twitter feed will be: [minitwitter id=1 username="ladygaga"] and the second feed: [minitwitter id=2 username="justinbieber"]. The widget section does it automatically.
 
+= What are the "query" and "list" fields in the widget section? =
+
+The field "query" is NOT required. It is only to show themes or sentences like "#iamthebest".
+The field "list" is NOT required too. It is to display the tweets of one of your list.
+
 == Screenshots ==
 
 1. The twitter feed on your blog.

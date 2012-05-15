@@ -4,7 +4,7 @@
 
 	Plugin Name: Mini twitter feed
 	Plugin URI: http://minitwitter.webdevdesigner.com
-	Description: this plugin displays tweets from your feed, from the Twitter Search, from a list or from your favorite users. 
+	Description: This plugin displays tweets from your feed, from the Twitter Search, from a list or from your favorite users. 
 	Author: Web Dev Designer
 	Version: 1.3
 	Author URI: http://www.webdevdesigner.com

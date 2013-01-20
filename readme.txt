@@ -2,9 +2,9 @@
 Contributors: webdevdesigner
 Donate link: http://minitwitter.webdevdesigner.com
 Tags: twitter, twitter feed, mini twitter, tweets, widget, shortcode 
-Requires at least: 2.8
-Tested up to: 3.3.1
-Stable tag: 1.4
+Requires at least: 3
+Tested up to: 3.4
+Stable tag: 1.4.1
 
 Embed your twitter feed or the feed from your favorite users on your Wordpress blog. Shortcodes and widgets are used.
 

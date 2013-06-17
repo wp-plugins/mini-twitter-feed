@@ -4,7 +4,7 @@ Donate link: http://minitwitter.webdevdesigner.com
 Tags: twitter, twitter feed, mini twitter, tweets, widget, shortcode 
 Requires at least: 3
 Tested up to: 3.5
-Stable tag: 2.0
+Stable tag: 2.1
 
 Embed your twitter feed or the twitter timeline from your favorite users on your Wordpress blog. Shortcodes and widgets are used.
 
@@ -25,7 +25,7 @@ You can read more on how to [Embed twitter on your Wordpress blog: mini Twitter]
 
 1. Upload `/mini-twitter_feed` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. If you don't have your Twitter Widget ID yet, Go on https://twitter.com/settings/widgets/new to create a new widget to get your Twitter Widget ID. Your Twitter Widget ID is in the URL (https://twitter.com/settings/widgets/TWITTER_WIDGET_ID/edit...) right after you click on the button "Create widget" or in the code provided by Twitter: data-widget-id="TWITTER_WIDGET_ID". You can keep this Twitter Widget ID for other feeds.
+3. If you don't have your Twitter Widget ID yet, Go on https://twitter.com/settings/widgets/new to create a new widget to get your Twitter Widget ID. Your Twitter Widget ID is in the URL (https://twitter.com/settings/widgets/TWITTER_WIDGET_ID/edit...) right after you click on the button "Create widget" or in the code provided by Twitter: data-widget-id="TWITTER_WIDGET_ID".
 4. Place `[minitwitter id="TWITTER_WIDGET_ID" username="YOUR_USERNAME"]` in your templates or use the widget section.
 
 You can limit the number of tweets displayed [minitwitter id="TWITTER_WIDGET_ID" username="webdevdesigner" limit=7]: it will show the last 7 tweets of the user @webdevdesigner.

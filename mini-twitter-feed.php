@@ -8,7 +8,7 @@
 	Important notice: Twitter shut down their v1 API and use now the v1.1, to update your mini twitter feed you need to go on https://twitter.com/settings/widgets/new create a new widget and get your Twitter widget ID. You can update the id on the shortcode or widget. ([minitwitter id="TWITTER_WIDGET_ID" username="YOUR_USERNAME"] or in the field "id" in the widget section).
 	You get this Twitter Widget ID from the code provided by Twitter when you create this widget: data-widget-id="TWITTER_WIDGET_ID" or in the URL https://twitter.com/settings/widgets/TWITTER_WIDGET_ID/edit.
 	Author: webdevdesigner
-	Version: 2.0
+	Version: 2.0.1
 	Author URI: http://www.webdevdesigner.com
 	
 	

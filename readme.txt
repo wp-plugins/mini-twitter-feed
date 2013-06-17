@@ -4,7 +4,7 @@ Donate link: http://minitwitter.webdevdesigner.com
 Tags: twitter, twitter feed, mini twitter, tweets, widget, shortcode 
 Requires at least: 3
 Tested up to: 3.5
-Stable tag: 2.1
+Stable tag: 2.0.1
 
 Embed your twitter feed or the twitter timeline from your favorite users on your Wordpress blog. Shortcodes and widgets are used.
 
